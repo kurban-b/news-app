@@ -1,0 +1,19 @@
+.profile {
+  display: flex;
+  align-items: center;
+}
+.profile__name {
+  margin-right: 20px;
+  color: white;
+  font-size: 16px;
+}
+.profile__button button {
+  cursor: pointer;
+  border: none;
+  font-size: 14px;
+  background-color: #fff;
+  padding: 5px 10px;
+}
+.profile__button button:hover {
+  background-color: #ececec;
+}

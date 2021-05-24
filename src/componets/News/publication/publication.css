@@ -1,0 +1,58 @@
+.publication {
+  margin-bottom: 25px;
+  padding: 10px 15px;
+  font-family: 'EB Garamond', serif;
+  border-bottom: 2px solid rgba(159, 168, 255, 0.21);
+}
+.publication:hover {
+  border-bottom: 2px solid rgba(142, 152, 252, 0.32);
+}
+.publication__title {
+  font-size: 22px;
+  margin: 0 0 10px 0;
+}
+.publication__author {
+  color: rgba(0, 0, 0, 0.47);
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+.publication__date {
+  color: rgba(0, 0, 0, 0.47);
+  font-size: 14px;
+}
+.publication__info {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+.publication__info button {
+  margin-left: 15px;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+button.publication__button_approve {
+  border-bottom: 2px solid rgba(158, 255, 106, 0.53);
+}
+button.publication__button_approve:hover {
+  border-bottom: 2px solid #66ff2e;
+}
+button.publication__button_delete {
+  border-bottom: 2px solid rgba(255, 106, 106, 0.57);
+}
+button.publication__button_delete:hover {
+  border-bottom: 2px solid #ff2e2e;
+}
+
+.publication__status {
+  flex: 1;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.66);
+}
+.publication__status_pos {
+  color: rgba(76, 255, 73, 0.7);
+}
+.publication__status_neg {
+  color: rgba(248, 62, 62, 0.71);
+}
