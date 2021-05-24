@@ -49,6 +49,7 @@
       "userId": 3,
       "title": "YouTube тестирует автоматический перевод заголовков, описаний и субтитров на язык пользователя",
       "content": "Команда Google начала тестировать новую удобную функцию видеосервиса YouTube — автоматический перевод на родной язык пользователя. \nНекоторые пользователи начали видеть названия, описания и субтитры английских роликов на португальском и турецком языках.",
+      "date": "2021-05-24T18:47:31.106Z",
       "approved": true,
       "id": 3
     },
@@ -57,6 +58,7 @@
       "userId": 2,
       "title": "Минобрнауки не планирует перевод вузов на удаленку",
       "content": "В данный момент вопрос о массовом переводе российских вузов на дистанционный режим работы не рассматривается, заявил глава Минобрнауки Валерий Фальков.\nПо его словам, решение будет приниматься исходя из эпидемиологической ситуации в каждом конкретном регионе РФ, отмечает ТАСС. Так он ответил на вопрос о том, готовы ли вузы перейти на дистанционный режим работы в случае роста заболеваемости.",
+      "date": "2021-05-24T18:47:31.106Z",
       "approved": true,
       "id": 4
     },
@@ -65,6 +67,7 @@
       "userId": 2,
       "title": "В Роскосмосе рассказали, во сколько обойдется полет на Луну",
       "content": "Стоимость отправки российских космонавтов на Луну варьируется от 400 миллиардов до 1,7 триллиона рублей, рассказал журналистам исполнительный директор по перспективным программам и науке госкорпорации \"Роскосмос\" Александр Блошенко",
+      "date": "2021-05-24T18:47:31.106Z",
       "approved": false,
       "id": 5
     },
@@ -73,6 +76,7 @@
       "userId": 3,
       "title": "Excepteur sint occaecat cupidatat non proident",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "date": "2021-05-24T18:47:31.106Z",
       "approved": false,
       "id": 6
     }

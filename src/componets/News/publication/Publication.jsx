@@ -1,6 +1,6 @@
 import React from 'react';
 import './publication.css';
-import moment from 'moment';
+import moment from 'moment/min/moment-with-locales';
 import ApproveBtn from './Approve-btn';
 import DeleteBtn from './Delete-btn';
 import PropTypes from 'prop-types';
@@ -12,9 +12,8 @@ function Publication({ publication, user }) {
       <p className="publication__content">{publication.content}</p>
       <div className="publication__author">Автор: {publication.author}</div>
       <div className="publication__date">
-        {moment(publication.date).format('L')}
+        {moment(publication.date).locale('ru').format('L')}
       </div>
-
       <div className="publication__info">
         <div className="publication__status">
           {user.id === publication.userId || user.admin ? (

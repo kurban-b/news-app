@@ -48,7 +48,7 @@ export const addPublication = (title, text, id, name) => {
         userId: id,
         title: title,
         content: text,
-        date: Date,
+        date: new Date(),
         approved: false,
       }),
       headers: { 'Content-Type': 'application/json' },
